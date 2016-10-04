@@ -1,0 +1,15 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.jumbotron {
+    /* add bootstrap jumbotron background image */
+    background: url("assets/img/bg5.jpg");
+    /* change bootstrap jumbotron text color */
+    color: #FFF;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
